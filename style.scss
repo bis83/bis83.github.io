@@ -110,18 +110,33 @@ img {
   max-width: 100%;
 }
 
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  border:2px solid #ff0000;
+table
+{
+  font-size: 12px;
+  border-collapse:collapse;
+  margin:18px 0 0;
+  padding:0;
 }
-
-th {
-  border:2px solid #000000;
+table tr
+{
+  border-top:1px solid #ccc;
+  background-color:#fff;
+  margin:0;
+  padding:0;
 }
-
-td {
-  border:1px solid #000000;
+table tr:nth-child(2n)
+{
+    background-color:#f8f8f8;
+}
+table tr th[align="center"], table tr td[align="center"] {
+    text-align:center;
+}
+table tr th, table tr td
+{
+  border:1px solid #ccc;
+  text-align:left;
+  margin:0;
+  padding:4px 10px;
 }
 
 // Fixes images in popup boxes from Google Translate
