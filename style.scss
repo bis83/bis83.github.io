@@ -112,10 +112,14 @@ img {
 
 table
 {
-  font-size: 12px;
+  font-size: 14px;
   border-collapse:collapse;
   margin:18px 0 0;
   padding:0;
+}
+table thead
+{
+  font-weight:bold;
 }
 table tr
 {
