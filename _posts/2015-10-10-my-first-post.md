@@ -3,18 +3,19 @@ layout: post
 title: My First Post
 ---
 
-元々, [はてなブログ](http://bis83gb.hatenadiary.jp/)で記事を書いていましたが,
-どうせmarkdownで書くならjekyllでいいんじゃないかと思い立ち,
+元々, [はてなブログ](http://bis83gb.hatenadiary.jp/)で記事を書いていましたが,  
+どうせmarkdownで書くならjekyllでいいんじゃないかと思い立ち,  
 こっちに移動してみることにしました.
 
 移動したいと思った動機:
 
 * ブログサービスに乗っかると過去記事の管理が面倒
     * github pagesならgitで直接管理できる
-* 個人的なドキュメントのストレージや, webサーバーをgithub private-repoにまとめたので,
+* 個人的なドキュメントのストレージや,  
+webサーバーをgithub private-repoにまとめたので,  
 blogもgithubで管理したくなった
 
-移動するに当たって, jekyllを覚えるのも面倒だったので,
+移動するに当たって, jekyllを覚えるのも面倒だったので,  
 まずは [jekyll-now](https://github.com/barryclark/jekyll-now) を利用しました.
 
 #### 導入時にやったこと
