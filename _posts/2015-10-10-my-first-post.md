@@ -25,7 +25,7 @@ blogもgithubで管理したくなった
 * imagesにアイコン画像を追加
 * _post/にあった元々のmdをyyyy-m-d-sample.mdにrename
     * テンプレートとして残しておきたいが, 表示されて欲しくないため
-* _post/に初めての記事を作成([コレ](https://raw.githubusercontent.com/bis83.github.io/master/_posts/2015-10-10-post.md))
+* _post/に初めての記事を作成([コレ](https://raw.githubusercontent.com/bis83/bis83.github.io/master/_posts/2015-10-10-my-first-post.md))
 
 将来的にjekyllに慣れてきたら, 色々カスタマイズしてみます.
 
