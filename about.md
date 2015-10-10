@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### My Projects
 
-### More Information
+* [nobuko](https://github.com/bis83/nobuko)
+* [miller](https://github.com/bis83/miller)
+* [mini-sdl2](https://github.com/bis83/mini-sdl2)
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
