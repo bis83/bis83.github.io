@@ -14,5 +14,5 @@ permalink: /about/
 
 ### Private Site
 
-[Blackink Soft](http://blackink-soft.net)
+* [Blackink Soft](http://blackink-soft.net)
 
