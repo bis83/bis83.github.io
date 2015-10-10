@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+主にCommon Lisp/Scheme(R5RS)を扱う趣味プログラマ.
+
 ### My Projects
 
 * [nobuko](https://github.com/bis83/nobuko)
