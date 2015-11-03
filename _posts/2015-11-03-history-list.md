@@ -3,7 +3,7 @@
 お互いにデータ編集があったことを気にしながら処理できるように,  
 リスト構造で管理できないかと思いついたネタです.
 
-```scheme
+```
 (use srfi-1)
 
 (define (hlist obj)
@@ -31,7 +31,7 @@
 `hlist-update!`による更新はリストを辿って,  
 常に最新の値に対して適用されます.
 
-```scheme
+```
 (define (append-1! lst)
   (append! lst (list 1)))
 
