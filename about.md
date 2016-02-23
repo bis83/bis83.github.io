@@ -19,6 +19,7 @@ permalink: /about/
 * [Blackink Soft](http://blackink-soft.net)
 
 ### bookshelf
+
 #### LISP
 * 計算機プログラムの構造と解釈 第二版
 * Lisp in Small Pieces
