@@ -33,7 +33,14 @@ permalink: /about/
 * LET OVER LAMBDA
 * Land of Lisp
 
-#### 非LISP
+#### Generative
+
+* FORM+CODE
+* ジェネラティブ・アート
+* NATURE OF CODE
+* GENERATIVE DESIGN
+
+#### 非Programming
 * ゲーデル, エッシャー, バッハ あるいは不思議の環
 * 白と黒のとびら オートマトンと形式言語をめぐる冒険
 * 虚数の情緒
