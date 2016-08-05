@@ -11,12 +11,8 @@ permalink: /about/
 * [Steel Bank Common Lisp](http://www.sbcl.org/)
 
 ### github-projects
-* [nobuko](https://github.com/bis83/nobuko)
 * [miller](https://github.com/bis83/miller)
 * [mini-sdl2](https://github.com/bis83/mini-sdl2)
-
-### private-site
-* [Blackink Soft](http://blackink-soft.net)
 
 ### bookshelf
 
