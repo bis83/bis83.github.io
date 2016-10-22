@@ -6,7 +6,7 @@
 name: (lisp junky)
 
 # Short bio or description (displayed in the header)
-description: my-lisp-novels
+description: Rather than love, than money, than fame, give me lisp.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/bis83/bis83.github.io/master/images/blackink_logo.png
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://blackink-soft.net/
+url: http://bis83.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
