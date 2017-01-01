@@ -1,6 +1,5 @@
-
 ---
-style: post
+layout: post
 title: 2017年
 ---
 
