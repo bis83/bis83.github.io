@@ -4,19 +4,23 @@ title: About
 permalink: /about/
 ---
 
-主にCommon Lisp/Scheme(R5RS)を扱う趣味プログラマ.
+* 主にCommon Lisp/Scheme(R5RS)を扱う趣味プログラマ
+* テキストエディタはvim
 
-### favorite-implementation
+### My machines
+
+* [MacBook Air 11-inch Mid 2012](https://support.apple.com/kb/SP650?locale=ja_JP&viewlocale=ja_JP)
+* [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
+
+### Favorite implementation
+
 * [CHICKEN Scheme](http://www.call-cc.org/)
 * [Steel Bank Common Lisp](http://www.sbcl.org/)
 
-### github-projects
-* [miller](https://github.com/bis83/miller)
-* [mini-sdl2](https://github.com/bis83/mini-sdl2)
+### Bookshelf
 
-### bookshelf
+#### Lisp
 
-#### LISP
 * 計算機プログラムの構造と解釈 第二版
 * Lisp in Small Pieces
 * 初めての人のためのLISP
@@ -36,8 +40,11 @@ permalink: /about/
 * NATURE OF CODE
 * GENERATIVE DESIGN
 
-#### 非Programming
+#### Other
+
 * ゲーデル, エッシャー, バッハ あるいは不思議の環
 * 白と黒のとびら オートマトンと形式言語をめぐる冒険
+* 精霊の箱(上/下)
 * 虚数の情緒
 * ウォールデン 森の生活
+
