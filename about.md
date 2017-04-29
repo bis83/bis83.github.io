@@ -4,13 +4,15 @@ title: About
 permalink: /about/
 ---
 
-* 主にCommon Lisp/Scheme(R5RS)を扱う趣味プログラマ
-* テキストエディタはvim
+* 主に *Chicken Scheme* を扱う趣味プログラマ
+* テキストエディタは *vim*
 
 ### My machines
 
 * [MacBook Air 11-inch Mid 2012](https://support.apple.com/kb/SP650?locale=ja_JP&viewlocale=ja_JP)
 * [Raspberry Pi 3 Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
+    * [8Bitdo ZERO GamePad](http://www.8bitdo.com/zero/)
+    * Diginnos DG-NP090D
 
 ### Favorite implementation
 
@@ -39,6 +41,11 @@ permalink: /about/
 * ジェネラティブ・アート
 * NATURE OF CODE
 * GENERATIVE DESIGN
+
+#### Programming
+
+* Python機械学習プログラミング
+* 純粋関数型データ構造
 
 #### Other
 
