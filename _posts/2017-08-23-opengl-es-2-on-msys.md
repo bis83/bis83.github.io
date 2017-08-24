@@ -110,7 +110,7 @@ int main() {
 gcc test.c -lopenal -lEGL -lGLESv2 -lglfw3
 ```
 
-ANGLEのおかげで, GLESc2とEGLが使えるようになるため,
+ANGLEのおかげで, GLESv2とEGLが使えるようになるため,
 インクルードやリンクするライブラリもRPI環境と同一名に揃えることが出来ます.
 
 `glfwWindowHint` もRPI環境と同一内容で初期化出来るようになったため,
