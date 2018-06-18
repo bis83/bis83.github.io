@@ -15,7 +15,7 @@ Nothing...
 - G.H.A.T.
 - Salvage
 - [DeepOne](https://bis83.github.io/DeepOne/)
-- 紅
+- [Kurenai](https://bis83.github.io/Kurenai/)
 - ESTE ~The Garden of fountains~
 - Deephack
 
