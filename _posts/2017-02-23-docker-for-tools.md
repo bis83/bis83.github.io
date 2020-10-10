@@ -35,7 +35,9 @@ Ruby製なのでローカルで動かそうとするとRubyの環境を入れな
 Rubyは普段使いしておらず環境のバージョンを維持することは面倒なので
 ここはjekyll公式のイメージに身を委ねます.
 
-    docker run --rm -it -v `pwd`:/srv/jekyll -p 127.0.0.1:4000:4000 jekyll/jekyll:pages
+    docker run --rm -it -v `pwd`:/srv/jekyll -p 127.0.0.1:4000:4000 jekyll/jekyll:pages jekyll serve
+
+>2020-10-11 Updated: 最新のコンテナは実行コマンド jekyll serve を明示的に渡す必要がある
 
 ## [apiaryio/emcc](https://hub.docker.com/r/apiaryio/emcc/)
 
