@@ -4,13 +4,11 @@ title: Games
 permalink: /games/
 ---
 
-### Table of Contents
+### itch.io
 
-#### New Release
+- [bis83.itch.io](https://bis83.itch.io/)
 
-Nothing...
-
-#### Olds
+### GitHub Pages
 
 - [G.H.A.T.](https://bis83.github.io/GHAT/)
 - [Salvage](https://bis83.github.io/Salvage/)
