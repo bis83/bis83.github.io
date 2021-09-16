@@ -14,7 +14,7 @@ include:
   - _pages
 
 header_pages:
-  - _pages/about.md
+  - _pages/basilico.md
   
 gems:
   - jekyll-feed

@@ -14,5 +14,4 @@ layout: home
 
 ## 最近の活動
 
-- [basilico](https://github.com/bis83/basilico)
-- [basilico-demo](https://github.com/bis83/basilico-demo)
+- [basilico](/basilico)
