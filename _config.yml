@@ -1,0 +1,21 @@
+title: (black ink)
+author: bis83
+description: Rather than love, than money, than fame, give me lisp.
+markdown: kramdown
+
+twitter_username: bis83gb
+github_username: bis83
+
+show_excerpts: true
+
+theme: minima
+
+include:
+  - _pages
+
+header_pages:
+  - _pages/about.md
+  
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
