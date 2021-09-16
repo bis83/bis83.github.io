@@ -1,9 +1,8 @@
 ---
 permalink: /
+title: Home
 layout: home
 ---
-
-# Home
 
 ## itch.io
 
