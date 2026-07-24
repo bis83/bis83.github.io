@@ -1,6 +1,6 @@
 title: (black ink)
 author: bis83
-description: Thought is the sculptor who can create the person you want to be.
+description: Our life is frittered away by detail. Simplify, simplify.
 markdown: kramdown
 
 github_username: bis83
@@ -14,7 +14,7 @@ include:
 
 header_pages:
   - _pages/basilico.md
-  
+
 gems:
   - jekyll-feed
   - jekyll-seo-tag
