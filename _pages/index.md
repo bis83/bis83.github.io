@@ -10,4 +10,4 @@ layout: home
 
 ## 最近の活動
 
-- [basilico](/basilico)
+次の時代へ

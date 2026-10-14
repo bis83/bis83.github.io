@@ -12,9 +12,6 @@ theme: minima
 include:
   - _pages
 
-header_pages:
-  - _pages/basilico.md
-
 gems:
   - jekyll-feed
   - jekyll-seo-tag
